@@ -38,41 +38,58 @@ Identify syntax aspects from those list in the documentation for [GitHub Flavore
 See:
 
 - The use of `#`, `##`, `###` for section headings.
-- The use of backticks for typewritter font, used for the names of files, functions, and 
+- The use of backticks for typewriter font, used for the names of files, functions, and 
 - The use `-` and `\*` for unordered lists.
 - The use of `1.` for ordered lists.
 - The syntax used for links.
 - The use of triple backticks for code snippets.
 - And many others.
 
-See how the Markdown syntax is rendered on GitHub for [this `README.md` file](TODO) and [the `README.github.md` file](TODO).
+See how the Markdown syntax is rendered on GitHub for [this `README.md` file](https://github.com/rosedu/workshop-markdown/blob/main/README.md) and [the `README.github.md` file](https://github.com/rosedu/workshop-markdown/blob/main/README.github.md).
 
 ### Operating Systems (from Open Education Hub)
 
-https://github.com/cs-pub-ro/operating-systems -> https://cs-pub-ro.github.io/operating-systems/
+See Markdown files in the [Operating Systems (Open Education Hub / `cs-pub-ro`) repository](https://github.com/cs-pub-ro/operating-systems).
+For files in the repository, check the raw format.
+And check how they are rendered on [the website](https://cs-pub-ro.github.io/operating-systems/).
 
 ### Unikraft Docs
 
-https://github.com/unikraft/docs -> https://unikraft.org/
+See Markdown files in the [Unikraft Docs repository](https://github.com/unikraft/docs).
+For files in the repository, check the raw format.
+And check how they are rendered on [the website](https://unikraft.org/)
 
 ### OWASP Website
 
-https://github.com/OWASP/owasp.github.io -> https://owasp.org/
+See Markdown files in the [`owasp.github.io` repository](https://github.com/OWASP/owasp.github.io).
+For files in the repository, check the raw format.
+And check how they are rendered on [the website](https://owasp.org/).
 
 ## Using the Repository Fork
 
-The [main repository](https://github.com/rosedu/workshop-markdown) already has branches numbered cdl-00 to cdl-99.
-You will be assigned a branch.
+The [main repository](https://github.com/rosedu/workshop-markdown) already has branches numbered `cdl-00` to `cdl-99`.
+The instructors will assign all of you a branch.
 
-You will create pull requests **to** that branch.
+You will create pull requests **to** your assigned branch.
+
+This means you will follow the steps:
+
+1. Create a branch.
+   Make sure you are on that branch.
+1. Make changes.
+1. Create commits.
+1. Push changes to your fork.
+1. Create a pull request from that push.
+   The pull request must be target **to** your assigned branch (**not** the `main` branch).
 
 ## Correct Markdown File
 
-Provide bad Markdown file.
+The [`bad.md` Markdown file](bad.md) has errors in it.
+Fix these errors as par of a pull request.
+Target the pull request **to** your assigned.
 
-Add 10 issues to the Markdown file.
-
-Create pull request.
+Ask the instructors to review your pull request.
+Make updates as required.
 
 ### Clean Up After Pull Request
 
