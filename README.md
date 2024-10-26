@@ -84,7 +84,7 @@ This means you will follow the steps:
 
 ## Correct Markdown File
 
-The [`bad.md` Markdown file](bad.md) has errors in it.
+The [`dynamic-linking.ro.md` Markdown file](dynamic-linking.ro.md) has errors in it.
 Fix these errors as par of a pull request.
 Target the pull request **to** your assigned.
 
